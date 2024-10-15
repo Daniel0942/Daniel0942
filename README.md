@@ -1,4 +1,6 @@
 ### Olá! Sou Daniel Bomfim 👋
+Sou desenvolvedor Full Stack, trabalhando diariamente com tecnologias como HTML5, CSS3, JavaScript, React, Flask, SQLite e Python.
+Confira meu website ou conecte-se comigo no LinkedIn.
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-react-flask-two.vercel.app/)
 [![Linkdlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-bomfim-219196230/)
 
